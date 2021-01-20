@@ -4,6 +4,7 @@
 
 #include<pthread.h>
 
+//123
 int main(void)
 {
 	int money=2,number=0,lossMoney=0,makeMoney=0,needMoney,winMoney=0;
